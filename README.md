@@ -14,7 +14,7 @@ We can calculate estimates of the first and second moments of this distribution 
 
 As was discussed in the comprehension exercise we can thus use the method of moments to obtain the following estimators for the two parameters of the distribution:
 
-![](https://render.githubusercontent.com/render/math?math=\widehat{p}=1%2B\overline{X}-\frac{\widehat{\mu_2}{\overline{X}})
+![](https://render.githubusercontent.com/render/math?math=\widehat{p}=1%2B\overline{X})
 
 __With that in mind, the aim is for you to write a code to investigate how these two method of moments estimators for the parameters of a Binomial random variable depend on the number of samples they are computed from.__  To complete the exercise you will need to
 
