@@ -1,4 +1,4 @@
-# Method of moments for binomial ranodm variable
+# Method of moments for binomial random variable
 
 The probability mass function for for the binomial random variable is the function of two parameters shown below:
 
